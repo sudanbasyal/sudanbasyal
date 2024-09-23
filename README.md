@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning more frontend technology<br>🎲 Fun fact: I am like a square wave, i will give 100% or nothing at all</p>
+<p align="left">✨ I usually don't code on saturdays<br>📚 I'm currently learning more frontend technology<br>🎲 Fun fact: I am like a square wave, i will give 100% or nothing at all</p>
 
 ###
 
