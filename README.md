@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Sudan Basyal, and I am currently working as a frontend developer at Veloxlabs.</h3>
+<h3 align="left">My name is Sudan Basyal, and I am currently working as a software engineer at Veloxlabs.</h3>
 
 ###
 
