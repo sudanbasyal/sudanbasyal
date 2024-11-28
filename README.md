@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I usually don't code on saturdays<br>📚 I'm currently learning about Bun which is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager.<br>🎲 Fun fact: I am like a square wave, i will give 100% or nothing at all</p>
+<p align="left">✨ I usually don't code on saturdays<br>📚 I'm currently working on a chat app.<br>🎲 Fun fact: I am like a square wave, i will give 100% or nothing at all</p>
 
 ###
 
