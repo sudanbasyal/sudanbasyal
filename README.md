@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Sudan Basyal, and I am currently working as a software engineer at Veloxlabs.</h3>
+<h3 align="left">My name is Sudan Basyal, and I am currently working as a software engineer at ThreatsView</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I usually don't code on saturdays<br>📚 I'm currently working on a hajir app.<br>🎲 Fun fact: I am like a square wave, i will give 100% or nothing at all</p>
+<p align="left">✨ I usually don't code on saturdays<br>📚 I'm currently working on a threatsview product.<br>🎲 Fun fact: I am like a square wave, i will give 100% or nothing at all</p>
 
 ###
 
